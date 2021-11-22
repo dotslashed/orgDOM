@@ -1,3 +1,3 @@
 # orgDOM
-Finds domains for a give organization name 
+Finds domains for a given organization name 
 Req: curl and jq
